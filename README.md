@@ -1,6 +1,6 @@
 # ML-Practice
 
-This repository contains a small practice project using **Python, NumPy, and pandas**.  
+This repository contains a small practice project using **Python, NumPy(p1), pandas(p2) and matplotilb(p3)**.  
 The purpose is to learn the basics of creating and manipulating **DataFrames** and exporting them to **Excel**.
 
 ---
@@ -8,8 +8,7 @@ The purpose is to learn the basics of creating and manipulating **DataFrames** a
 Requirements
 Make sure the following Python packages are installed:
 
-bash
-Copy code
+
 pip install numpy pandas openpyxl
 How to run
 Clone the repository:
